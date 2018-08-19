@@ -1,0 +1,7 @@
+swagger:
+  resourcePackage: com.rassix.controller
+  title: Users manager
+  version: 1.0.0
+  description: Service to create, read, update and delete users
+  contact: NA
+  contactEmail: NA
